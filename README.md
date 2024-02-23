@@ -14,5 +14,5 @@ export default defineConfig({
 
 ## Pacotes
 
-[Vite](https://vitejs.dev)
-[Three.js](https://threejs.org/docs/)
+- [Vite](https://vitejs.dev)
+- [Three.js](https://threejs.org/docs/)
